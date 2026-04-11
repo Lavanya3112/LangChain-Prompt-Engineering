@@ -1,7 +1,5 @@
 🔗🧠 From Prompts to Intelligent Systems: LangChain Deep Dive
 
----
-
 ## ✨ Blog
 https://medium.com/@lavanyadive3112/from-prompts-to-intelligent-systems-a-deep-dive-into-langchain-a4c4eba351d7
 
