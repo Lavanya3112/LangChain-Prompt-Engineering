@@ -1,5 +1,10 @@
 # ✨ GenAI Prompt Engineering Assignment
 
+## 🔗 Blog
+https://medium.com/@lavanyadive3112/from-prompts-to-intelligent-systems-a-deep-dive-into-langchain-a4c4eba351d7
+
+---
+
 ### 🧠 LangChain Prompt Templates
 
 ---
