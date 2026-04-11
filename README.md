@@ -1,4 +1,6 @@
-# 🧠⚙️ From Prompts to Intelligent Systems: LangChain Deep Dive 🔗
+🔗🧠 From Prompts to Intelligent Systems: LangChain Deep Dive
+
+---
 
 ## ✨ Blog
 https://medium.com/@lavanyadive3112/from-prompts-to-intelligent-systems-a-deep-dive-into-langchain-a4c4eba351d7
@@ -24,7 +26,7 @@ It demonstrates how structured prompting can be used to create scalable GenAI pi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ⚙️
 
 * Python 🐍
 * LangChain ⚡
